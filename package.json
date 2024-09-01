@@ -2,7 +2,7 @@
   "name": "rdpjs",
   "version": "1.0.0",
   "description": "node-rdpjs ========",
-  "main": "pkg/index.js",
+  "main": "rdp/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
